@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WPFApp\\FlightBooking.csproj": {}
+    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WPFApp\\FlightBooking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WPFApp\\FlightBooking.csproj": {
+    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WPFApp\\FlightBooking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WPFApp\\FlightBooking.csproj",
+        "projectUniqueName": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WPFApp\\FlightBooking.csproj",
         "projectName": "FlightBooking",
-        "projectPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WPFApp\\FlightBooking.csproj",
+        "projectPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WPFApp\\FlightBooking.csproj",
         "packagesPath": "C:\\Users\\Miracle 0x1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WPFApp\\obj\\",
+        "outputPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WPFApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

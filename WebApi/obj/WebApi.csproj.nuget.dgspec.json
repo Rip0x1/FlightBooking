@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Miracle 0x1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

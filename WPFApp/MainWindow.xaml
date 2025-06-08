@@ -10,7 +10,6 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!-- Логотип и название компании -->
         <materialDesign:Card Padding="20" Margin="0,0,0,30" Background="#2196F3">
             <materialDesign:Card.Effect>
                 <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#66000000"/>
@@ -21,7 +20,6 @@
             </StackPanel>
         </materialDesign:Card>
 
-        <!-- Навигация с анимацией -->
         <materialDesign:Card Grid.Row="1" Padding="20" Background="#E3F2FD" Margin="0,0,0,30">
             <materialDesign:Card.Effect>
                 <DropShadowEffect BlurRadius="5" ShadowDepth="1" Color="#33000000"/>
@@ -120,7 +118,7 @@
                     </Button.Triggers>
                 </Button>
                 <Button Click="NavigateToPayments" Style="{StaticResource MaterialDesignRaisedButton}"
-                        Background="White" Foreground="Black" Width="150" Height="40" Margin="20,0">
+                        Background="Gray" Foreground="White" Width="150" Height="40" Margin="20,0">
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                         <materialDesign:PackIcon Kind="Payment" Width="16" Height="16" Margin="0,0,5,0"/>
                         <TextBlock Text="Платежи"/>
@@ -143,7 +141,7 @@
                     </Button.Triggers>
                 </Button>
                 <Button Click="NavigateToBookingHistory" Style="{StaticResource MaterialDesignRaisedButton}"
-                        Background="Orange" Foreground="White" Width="160" Height="40" Margin="20,0">
+                        Background="#FF5722" Foreground="White" Width="160" Height="40" Margin="20,0">
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                         <materialDesign:PackIcon Kind="Logout" Width="16" Height="16" Margin="0,0,5,0"/>
                         <TextBlock Text="История брони"/>
@@ -166,7 +164,7 @@
                     </Button.Triggers>
                 </Button>
                 <Button Click="ExitApplication" Style="{StaticResource MaterialDesignRaisedButton}"
-                        Background="#F44336" Foreground="White" Width="150" Height="40" Margin="20,0">
+                        Background="Red" Foreground="White" Width="150" Height="40" Margin="20,0">
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                         <materialDesign:PackIcon Kind="Logout" Width="16" Height="16" Margin="0,0,5,0"/>
                         <TextBlock Text="Выход"/>

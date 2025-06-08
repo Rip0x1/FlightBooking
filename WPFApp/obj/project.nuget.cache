@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8r9ft/7LAA=",
+  "dgSpecHash": "Pc3hDn2knEw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WPFApp\\FlightBooking.csproj",
+  "projectFilePath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WPFApp\\FlightBooking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miracle 0x1\\.nuget\\packages\\epplus\\7.0.10\\epplus.7.0.10.nupkg.sha512",
     "C:\\Users\\Miracle 0x1\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

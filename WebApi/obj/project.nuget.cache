@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ermZe+5yVQ=",
+  "dgSpecHash": "S35r8PzL+gk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\Курсач\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Miracle 0x1\\Documents\\Важно\\Учебные цели\\Учёба\\3 курс\\Курсач\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miracle 0x1\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.16\\microsoft.aspnetcore.jsonpatch.8.0.16.nupkg.sha512",
     "C:\\Users\\Miracle 0x1\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.16\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.16.nupkg.sha512",

@@ -14,13 +14,14 @@ namespace WebApi
             builder.Services.AddControllers().AddNewtonsoftJson();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.WebHost.UseUrls("https://localhost:7090");
             builder.Services.AddDbContext<FlightDbContext>(options =>
                 options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
                     new MySqlServerVersion(new Version(8, 0, 21))));
 
             builder.Services.Configure<ApiBehaviorOptions>(options =>
             {
-                options.SuppressModelStateInvalidFilter = true; // Отключаем стандартную валидацию
+                options.SuppressModelStateInvalidFilter = true; 
             });
 
             var app = builder.Build();

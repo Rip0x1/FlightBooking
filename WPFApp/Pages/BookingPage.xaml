@@ -10,25 +10,13 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <materialDesign:Card Padding="20" Margin="0,0,0,20" Background="#2196F3" Grid.Row="0">
+        <materialDesign:Card Padding="20" Margin="0,0,0,20" Background="#F44336" Grid.Row="0">
             <materialDesign:Card.Effect>
                 <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#66000000"/>
             </materialDesign:Card.Effect>
             <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
                 <materialDesign:PackIcon Kind="BookImage" Width="30" Height="30" Foreground="White"/>
                 <TextBlock Text="Брони" FontSize="28" FontWeight="Bold" Foreground="White" Margin="10,0,0,0">
-                    <TextBlock.Triggers>
-                        <EventTrigger RoutedEvent="Loaded">
-                            <BeginStoryboard>
-                                <Storyboard>
-                                    <!--<DoubleAnimation Storyboard.TargetProperty="(TextBlock.RenderTransform).(ScaleTransform.ScaleX)"
-                                                    From="0" To="1" Duration="0:0:0.5"/>
-                                    <DoubleAnimation Storyboard.TargetProperty="(TextBlock.RenderTransform).(ScaleTransform.ScaleY)"
-                                                    From="0" To="1" Duration="0:0:0.5"/>-->
-                                </Storyboard>
-                            </BeginStoryboard>
-                        </EventTrigger>
-                    </TextBlock.Triggers>
                     <TextBlock.RenderTransform>
                         <ScaleTransform/>
                     </TextBlock.RenderTransform>
