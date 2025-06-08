@@ -74,3 +74,12 @@
 - Анимации реализованы с использованием XAML-анимаций для улучшения визуального восприятия.
 - Схема базы данных поддерживает связи между таблицами через внешние ключи.
 - Приложение может быть расширено добавлением новых страниц или интеграцией с другими системами через API.
+- 
+## Фото
+![image](https://github.com/user-attachments/assets/b334fc30-94c4-49cc-8dd3-ab70443ee0e1)
+![image](https://github.com/user-attachments/assets/ed9ddec8-6f43-45e1-b0e1-d0ab7834082c)
+![image](https://github.com/user-attachments/assets/ff9173f2-54fd-40b8-934f-caaccd186aa1)
+![image](https://github.com/user-attachments/assets/7e8f1c35-07bf-4fff-8b5d-a5a2fd707f33)
+
+
+
