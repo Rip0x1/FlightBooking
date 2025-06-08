@@ -55,7 +55,7 @@ namespace FlightBooking.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/FlightBooking;component/pages/paymentspage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/FlightBooking;V1.0.0.0;component/pages/paymentspage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\PaymentsPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

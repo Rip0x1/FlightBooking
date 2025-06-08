@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\bookinghistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\bookinghistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\bookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\bookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\bookinghistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\bookinghistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\flightsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\flightsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\paymentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\paymentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\bookinghistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\bookinghistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\flightsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|solutionrelative:pages\\flightsearchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C34421-7E87-4865-BD49-CE935D423A2D}|FlightBooking.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\wpfapp\\pages\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,19 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FlightBooking",
-              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\FlightBooking.csproj",
-              "RelativeDocumentMoniker": "FlightBooking.csproj",
-              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\FlightBooking.csproj",
-              "RelativeToolTip": "FlightBooking.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-08T16:15:21.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PaymentsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\PaymentsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\PaymentsViewModel.cs",
@@ -187,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
@@ -199,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApiClient.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Services\\ApiClient.cs",
               "RelativeDocumentMoniker": "Services\\ApiClient.cs",
@@ -207,12 +195,11 @@
               "RelativeToolTip": "Services\\ApiClient.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T18:47:48.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T18:47:48.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PaymentsPage.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\PaymentsPage.xaml",
               "RelativeDocumentMoniker": "Pages\\PaymentsPage.xaml",
@@ -236,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -248,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BookingHistoryPage.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\BookingHistoryPage.xaml",
               "RelativeDocumentMoniker": "Pages\\BookingHistoryPage.xaml",
@@ -260,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BookingPage.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\BookingPage.xaml",
               "RelativeDocumentMoniker": "Pages\\BookingPage.xaml",
@@ -272,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UsersPage.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\UsersPage.xaml",
               "RelativeDocumentMoniker": "Pages\\UsersPage.xaml",
@@ -284,7 +271,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "FlightSearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\FlightSearchPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\FlightSearchPage.xaml",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\FlightSearchPage.xaml",
+              "RelativeToolTip": "Pages\\FlightSearchPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-07T18:55:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightBooking",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\FlightBooking.csproj",
+              "RelativeDocumentMoniker": "FlightBooking.csproj",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\FlightBooking.csproj",
+              "RelativeToolTip": "FlightBooking.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T16:15:21.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
@@ -296,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BookingHistoryViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\BookingHistoryViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\BookingHistoryViewModel.cs",
@@ -308,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BookingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\BookingViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\BookingViewModel.cs",
@@ -320,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Commands.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Commands.cs",
               "RelativeDocumentMoniker": "Commands.cs",
@@ -328,12 +338,11 @@
               "RelativeToolTip": "Commands.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T12:10:51.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T12:10:51.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UsersViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\UsersViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\UsersViewModel.cs",
@@ -345,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FlightSearchViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\FlightSearchViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\FlightSearchViewModel.cs",
@@ -357,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ReportsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\ViewModels\\ReportsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ReportsViewModel.cs",
@@ -369,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BookingHistoryPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\BookingHistoryPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\BookingHistoryPage.xaml.cs",
@@ -390,17 +399,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T23:10:59.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FlightSearchPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\FlightSearchPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\FlightSearchPage.xaml",
-              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WPFApp\\Pages\\FlightSearchPage.xaml",
-              "RelativeToolTip": "Pages\\FlightSearchPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-07T18:55:29.17Z"
             },
             {
               "$type": "Document",
