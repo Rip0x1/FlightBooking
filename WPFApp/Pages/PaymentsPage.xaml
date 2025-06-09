@@ -39,10 +39,18 @@
                 <Border Grid.Row="0" Margin="0,0,0,20" BorderBrush="#B0BEC5" BorderThickness="2" CornerRadius="10" Padding="15" Background="White">
                     <StackPanel>
                         <TextBlock Text="Выберите бронь" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10"/>
-                        <ComboBox ItemsSource="{Binding AvailableBookings}" DisplayMemberPath="BookingId" 
-                                  SelectedValue="{Binding NewPayment.BookingId, UpdateSourceTrigger=PropertyChanged}" 
-                                  SelectedValuePath="BookingId" Width="300" Height="40" VerticalAlignment="Center" Margin="0" 
-                                  Style="{StaticResource MaterialDesignComboBox}" IsEditable="False" IsReadOnly="True"/>
+                        <ComboBox ItemsSource="{Binding AvailableBookings}" 
+                        DisplayMemberPath="BookingId" 
+                        SelectedValue="{Binding NewPayment.BookingId, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" 
+                        SelectedValuePath="BookingId" 
+                        Width="300" 
+          Height="40" 
+          VerticalAlignment="Center" 
+          Margin="0" 
+          Style="{StaticResource MaterialDesignComboBox}" 
+          IsEditable="False" 
+          IsReadOnly="True" 
+          SelectedIndex="0"/>
                     </StackPanel>
                 </Border>
 

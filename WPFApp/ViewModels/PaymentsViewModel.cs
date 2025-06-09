@@ -76,6 +76,7 @@ namespace FlightBooking.ViewModels
             try
             {
                 var currentPayment = SelectedPayment;
+                var currentBookingId = NewPayment?.BookingId ?? 0; 
                 var payments = await _apiClient.GetPaymentsAsync();
                 var bookings = await _apiClient.GetBookingsAsync();
 
@@ -101,17 +102,19 @@ namespace FlightBooking.ViewModels
                     {
                         AvailableBookings.Clear();
                         foreach (var booking in bookings) AvailableBookings.Add(booking);
-                        if (AvailableBookings.Any() && NewPayment != null && NewPayment.BookingId == 0)
-                        {
-                            NewPayment.BookingId = AvailableBookings[0].BookingId; 
-                            System.Diagnostics.Debug.WriteLine($"Set default BookingId to: {NewPayment.BookingId}");
-                        }
+                        NewPayment.BookingId = AvailableBookings.Any(b => b.BookingId == currentBookingId)
+                            ? currentBookingId
+                            : AvailableBookings[0].BookingId;
+                        System.Diagnostics.Debug.WriteLine($"Set BookingId to: {NewPayment.BookingId}");
+                        NotifyPropertyChanged(nameof(NewPayment)); 
                     }
                     else
                     {
                         System.Diagnostics.Debug.WriteLine("Нет данных бронирований.");
                         NotificationMessage = "Нет доступных бронирований!";
                         Task.Delay(2000).ContinueWith(_ => NotificationMessage = "");
+                        NewPayment.BookingId = 0; 
+                        NotifyPropertyChanged(nameof(NewPayment));
                     }
                 });
             }
@@ -170,17 +173,16 @@ namespace FlightBooking.ViewModels
                 var createdPayment = await _apiClient.CreatePaymentAsync(payment);
                 if (createdPayment != null && createdPayment.PaymentId > 0)
                 {
-                    LoadData(); 
+                    LoadData();
                     await Application.Current.Dispatcher.InvokeAsync(() =>
                     {
-                        if (Payments.Any()) SelectedPayment = Payments[0]; 
-                    });
-                    UpdateFormFromSelectedPayment(); 
-                    if (AvailableBookings.Any(b => b.BookingId == NewPayment.BookingId))
-                    {
-                        NewPayment.BookingId = NewPayment.BookingId; 
+                        if (Payments.Any()) SelectedPayment = Payments[0];
+                        NewPayment.BookingId = AvailableBookings.Any(b => b.BookingId == NewPayment.BookingId)
+                            ? NewPayment.BookingId
+                            : AvailableBookings.Any() ? AvailableBookings[0].BookingId : 0;
                         NotifyPropertyChanged(nameof(NewPayment));
-                    }
+                    });
+                    UpdateFormFromSelectedPayment();
                     NotificationMessage = "Платеж создан!";
                 }
                 else
@@ -221,10 +223,14 @@ namespace FlightBooking.ViewModels
                     Status = NewPayment.Status
                 };
                 await _apiClient.UpdatePaymentAsync(paymentToUpdate);
-                LoadData(); 
+                LoadData();
                 await Application.Current.Dispatcher.InvokeAsync(() =>
                 {
-                    if (Payments.Any()) SelectedPayment = Payments[0]; 
+                    if (Payments.Any()) SelectedPayment = Payments[0];
+                    NewPayment.BookingId = AvailableBookings.Any(b => b.BookingId == NewPayment.BookingId)
+                        ? NewPayment.BookingId
+                        : AvailableBookings.Any() ? AvailableBookings[0].BookingId : 0;
+                    NotifyPropertyChanged(nameof(NewPayment));
                 });
                 UpdateFormFromSelectedPayment();
                 NotificationMessage = "Платеж отредактирован!";

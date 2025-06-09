@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\data\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:data\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\data\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:data\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,18 +67,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
-              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAQwJ4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T09:35:27.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FlightsController.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\FlightsController.cs",
               "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
@@ -90,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FlightDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Data\\FlightDbContext.cs",
               "RelativeDocumentMoniker": "Data\\FlightDbContext.cs",
@@ -102,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Models\\Flight.cs",
               "RelativeDocumentMoniker": "Models\\Flight.cs",
@@ -114,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -132,22 +120,34 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T18:40:43.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "BookingsController.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\BookingsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
               "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\BookingsController.cs",
               "RelativeToolTip": "Controllers\\BookingsController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAiwGQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wGQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T18:58:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:35:27.437Z"
             },
             {
               "$type": "Document",
@@ -163,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
@@ -175,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

@@ -54,9 +54,9 @@ namespace FlightBooking.ViewModels
             _apiClient = new ApiClient();
             Bookings = new ObservableCollection<Booking>();
             StatusOptions = new ObservableCollection<string> { "Все", "Подтверждено", "Завершено", "Отменено" };
-            SelectedDate = DateTime.MinValue; 
-            SelectedStatus = "Все"; 
-            RefreshCommand = new RelayCommand(RefreshData);
+            SelectedDate = DateTime.MinValue;
+            SelectedStatus = "Все";
+            RefreshCommand = new AsyncRelayCommand(RefreshDataAsync);
             LoadData();
         }
 
@@ -70,26 +70,31 @@ namespace FlightBooking.ViewModels
                     System.Diagnostics.Debug.WriteLine($"Загружено {bookings.Count} бронирований.");
                     Bookings.Clear();
                     foreach (var booking in bookings) Bookings.Add(booking);
-                    FilterBookings(); 
+                    FilterBookings();
                 }
                 else
                 {
                     System.Diagnostics.Debug.WriteLine("Нет данных бронирований.");
                     NotificationMessage = "Нет данных для отображения!";
+                    await Task.Delay(2000); 
+                    NotificationMessage = "";
                 }
             }
             catch (Exception ex)
             {
                 System.Diagnostics.Debug.WriteLine($"Ошибка загрузки данных: {ex.Message}");
                 NotificationMessage = "Ошибка загрузки данных!";
+                await Task.Delay(2000);
+                NotificationMessage = "";
             }
         }
 
-        private void RefreshData(object parameter)
+        private async Task RefreshDataAsync()
         {
             LoadData();
             NotificationMessage = "Данные обновлены!";
-            Task.Delay(2000).ContinueWith(_ => NotificationMessage = "");
+            await Task.Delay(2000);
+            NotificationMessage = "";
         }
 
         private void FilterBookings()
