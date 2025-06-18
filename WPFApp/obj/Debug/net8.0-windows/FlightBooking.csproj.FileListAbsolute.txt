@@ -1,0 +1,120 @@
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.exe
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.deps.json
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.runtimeconfig.json
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.pdb
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.csproj.AssemblyReference.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking_MarkupCompile.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.g.resources
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.AssemblyInfoInputs.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.AssemblyInfo.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.csproj.CoreCompileInputs.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBo.475D0C45.Up2Date
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\refint\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.pdb
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.genruntimeconfig.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\ref\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\FlightSearchPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\FlightSearchPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\UsersPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\UsersPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking_MarkupCompile.lref
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\ReportsPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\ReportsPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\PdfSharpCore.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.exe
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.deps.json
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.runtimeconfig.json
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\FlightBooking.pdb
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\PdfSharpCore.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.csproj.AssemblyReference.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingHistoryPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\FlightSearchPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\ReportsPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\UsersPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingHistoryPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\FlightSearchPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\ReportsPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\UsersPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking_MarkupCompile.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking_MarkupCompile.lref
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\App.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.g.resources
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.AssemblyInfoInputs.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.AssemblyInfo.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.csproj.CoreCompileInputs.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBo.475D0C45.Up2Date
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\refint\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.pdb
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.genruntimeconfig.cache
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\ref\FlightBooking.dll
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\PaymentsPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\PaymentsPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingHistoryPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\PaymentsPage.baml
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\BookingHistoryPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\Pages\PaymentsPage.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking_Content.g.cs
+C:\Users\Miracle 0x1\Documents\Важно\Учебные цели\Учёба\3 курс\Курсач\WPFApp\obj\Debug\net8.0-windows\FlightBooking.sourcelink.json

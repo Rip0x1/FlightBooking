@@ -1,0 +1,194 @@
+﻿<Window x:Class="FlightBooking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="SkyBooking" WindowState="Maximized" Background="#F5F6FA" Cursor="">
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <materialDesign:Card Padding="20" Margin="0,0,0,30" Background="#2196F3">
+            <materialDesign:Card.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#66000000"/>
+            </materialDesign:Card.Effect>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="AirplaneTakeoff" Width="40" Height="40" Foreground="White"/>
+                <TextBlock Text="SkyBooking" FontSize="32" FontWeight="Bold" Foreground="White" Margin="10,0,0,0"/>
+            </StackPanel>
+        </materialDesign:Card>
+
+        <materialDesign:Card Grid.Row="1" Padding="20" Background="#E3F2FD" Margin="0,0,0,30">
+            <materialDesign:Card.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="1" Color="#33000000"/>
+            </materialDesign:Card.Effect>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Click="SearchFlights_Click" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="#2196F3" Foreground="White" Width="150" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Magnify" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="Поиск рейсов"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="MyBookings_Click" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="#F44336" Foreground="White" Width="150" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="CalendarCheck" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="Брони"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="Users_Click" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="#9C27B0" Foreground="White" Width="150" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="AccountMultiple" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="Клиенты"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="NavigateToReports" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="#4CAF50" Foreground="White" Width="150" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="ChartBar" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="Отчёты"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="NavigateToPayments" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="Gray" Foreground="White" Width="150" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Payment" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="Платежи"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="NavigateToBookingHistory" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="#FF5722" Foreground="White" Width="160" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Logout" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="История брони"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Click="ExitApplication" Style="{StaticResource MaterialDesignRaisedButton}"
+                        Background="Red" Foreground="White" Width="150" Height="40" Margin="20,0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <materialDesign:PackIcon Kind="Logout" Width="16" Height="16" Margin="0,0,5,0"/>
+                        <TextBlock Text="Выход"/>
+                    </StackPanel>
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="150" To="160" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation Storyboard.TargetProperty="Width" From="160" To="150" Duration="0:0:0.2"/>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+            </StackPanel>
+        </materialDesign:Card>
+
+        <Frame x:Name="MainFrame" Grid.Row="2" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

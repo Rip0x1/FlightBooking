@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\data\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:data\\flightdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|c:\\users\\miracle 0x1\\documents\\\u0432\u0430\u0436\u043D\u043E\\\u0443\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0443\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u043A\u0443\u0440\u0441\u0430\u0447\\application\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BDB0565-062B-467C-A5DC-BBA1F9E9E92A}|WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\Flight.cs",
+              "RelativeToolTip": "Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:42:57.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:35:04.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:58:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:35:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:40:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlightDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Data\\FlightDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\FlightDbContext.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Data\\FlightDbContext.cs",
+              "RelativeToolTip": "Data\\FlightDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:43:33.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "Controllers\\FlightsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:44:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowEoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:33:40.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:43:12.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:33:21.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T18:40:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u041A\u0443\u0440\u0441\u0430\u0447\\Application\\WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T18:40:48.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
