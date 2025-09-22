@@ -1,0 +1,117 @@
+﻿<Page x:Class="FlightBooking.Pages.BookingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="Мои брони">
+    <Grid Margin="20" Background="#F5F6FA">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <materialDesign:Card Padding="20" Margin="0,0,0,20" Background="#F44336" Grid.Row="0">
+            <materialDesign:Card.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#66000000"/>
+            </materialDesign:Card.Effect>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="BookImage" Width="30" Height="30" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="Брони" FontSize="28" FontWeight="Bold" Foreground="Black" Margin="10,0,0,0">
+                    <TextBlock.RenderTransform>
+                        <ScaleTransform/>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+            </StackPanel>
+        </materialDesign:Card>
+
+        <TextBlock Grid.Row="1" Text="{Binding NotificationMessage}" FontSize="16" Foreground="Green" 
+                   HorizontalAlignment="Center" Margin="0,0,0,20" Visibility="{Binding NotificationMessage, Converter={StaticResource NullToVisibilityConverter}}"/>
+
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto">
+            <Grid MaxWidth="1200" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Border Grid.Row="0" Margin="0,0,0,20" BorderBrush="#B0BEC5" BorderThickness="2" CornerRadius="10" Padding="15" Background="White">
+                    <StackPanel>
+                        <TextBlock Text="Выберите рейс" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+                        <ComboBox ItemsSource="{Binding Flights}" DisplayMemberPath="FlightNumber" SelectedItem="{Binding SelectedFlight}"
+                                  Style="{StaticResource MaterialDesignComboBox}" Width="300" Height="40"
+                                  IsEditable="False" IsReadOnly="False" SelectedIndex="0"/>
+                    </StackPanel>
+                </Border>
+
+                <Border Grid.Row="1" Margin="0,0,0,20" BorderBrush="#B0BEC5" BorderThickness="2" CornerRadius="10" Padding="15" Background="White">
+                    <StackPanel>
+                        <TextBlock Text="Выберите клиента" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+                        <ComboBox ItemsSource="{Binding Users}" DisplayMemberPath="FullName" SelectedValue="{Binding SelectedUserId}"
+                                  SelectedValuePath="UserId" Style="{StaticResource MaterialDesignComboBox}" Width="300" Height="40"
+                                  IsEditable="False" IsReadOnly="False" SelectedIndex="0"/>
+                    </StackPanel>
+                </Border>
+
+                <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                    <Button Content="Забронировать" Command="{Binding BookCommand}" 
+                            Style="{StaticResource MaterialDesignRaisedButton}" Width="200" Height="40"
+                            Background="#2196F3" Foreground="White" Margin="0,0,15,0"/>
+                    <Button Content="Отменить бронь" Command="{Binding CancelBookingCommand}" CommandParameter="{Binding SelectedBooking}"
+                            Style="{StaticResource MaterialDesignRaisedButton}" Width="200" Height="40"
+                            Background="#F44336" Foreground="White" IsEnabled="{Binding SelectedBooking, Converter={StaticResource NullToBoolConverter}}"
+                            Margin="0,0,15,0"/>
+                    <ComboBox ItemsSource="{Binding StatusOptions}" SelectedItem="{Binding SelectedBooking.Status}"
+                              Width="200" Height="40" Style="{StaticResource MaterialDesignComboBox}" Margin="0,0,15,0"
+                              IsEnabled="{Binding SelectedBooking, Converter={StaticResource NullToBoolConverter}}"/>
+                    <Button Content="Обновить статус" Command="{Binding UpdateStatusCommand}" CommandParameter="{Binding SelectedBooking}"
+                            Style="{StaticResource MaterialDesignRaisedButton}" Width="200" Height="40"
+                            Background="#4CAF50" Foreground="White" IsEnabled="{Binding SelectedBooking, Converter={StaticResource NullToBoolConverter}}"
+                            Margin="0,0,15,0"/>
+                    <Button Content="Экспорт в Excel" Command="{Binding ExportToExcelCommand}"
+                            Style="{StaticResource MaterialDesignRaisedButton}" Width="200" Height="40"
+                            Background="#9E9E9E" Foreground="White" Margin="0,0,0,0"/>
+                </StackPanel>
+
+                <Border Grid.Row="3" Padding="15" BorderBrush="#B0BEC5" BorderThickness="2" CornerRadius="10" Background="White" HorizontalAlignment="Center">
+                    <ListView ItemsSource="{Binding Bookings}" SelectedItem="{Binding SelectedBooking}" MaxHeight="400">
+                        <ListView.Triggers>
+                            <EventTrigger RoutedEvent="Loaded">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetProperty="(UIElement.Opacity)" From="0" To="1" Duration="0:0:0.5"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ListView.Triggers>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Номер брони" DisplayMemberBinding="{Binding BookingId}" Width="Auto"/>
+                                <GridViewColumn Header="Рейс" DisplayMemberBinding="{Binding Flight.FlightNumber}" Width="Auto"/>
+                                <GridViewColumn Header="Клиент" DisplayMemberBinding="{Binding User.FullName}" Width="Auto"/>
+                                <GridViewColumn Header="Дата брони" DisplayMemberBinding="{Binding BookingDate, StringFormat={}{0:dd/MM/yyyy HH:mm}}" Width="Auto"/>
+                                <GridViewColumn Header="Статус" DisplayMemberBinding="{Binding Status}" Width="Auto"/>
+                            </GridView>
+                        </ListView.View>
+                        <ListView.ItemContainerStyle>
+                            <Style TargetType="ListViewItem">
+                                <Setter Property="Background" Value="White"/>
+                                <Setter Property="BorderBrush" Value="#E0E0E0"/>
+                                <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#E3F2FD"/>
+                                    </Trigger>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter Property="Background" Value="#BBDEFB"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </ListView.ItemContainerStyle>
+                    </ListView>
+                </Border>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>

@@ -1,0 +1,159 @@
+﻿<Page x:Class="FlightBooking.Pages.UsersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="Клиенты">
+    <Grid Margin="20" Background="#F5F6FA">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <materialDesign:Card Padding="20" Margin="0,0,0,20" Background="#9C27B0" Grid.Row="0">
+            <materialDesign:Card.Effect>
+                <DropShadowEffect BlurRadius="10" ShadowDepth="2" Color="#66000000"/>
+            </materialDesign:Card.Effect>
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <materialDesign:PackIcon Kind="AccountMultiple" Width="30" Height="30" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Text="Клиенты" FontSize="28" FontWeight="Bold" Foreground="Black" Margin="10,0,0,0">
+                    <TextBlock.RenderTransform>
+                        <ScaleTransform/>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+            </StackPanel>
+        </materialDesign:Card>
+
+        <TextBlock Grid.Row="1" Text="{Binding NotificationMessage}" FontSize="16" Foreground="Green" 
+                   HorizontalAlignment="Center" Margin="0,0,0,20" 
+                   Visibility="{Binding NotificationMessage, Converter={StaticResource NullToVisibilityConverter}}"/>
+
+        <TabControl Grid.Row="2" Background="Transparent">
+            <TabControl.Resources>
+                <Style TargetType="TabItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="TabItem">
+                                <Border Background="Transparent" Padding="10,5" Margin="2">
+                                    <ContentPresenter x:Name="ContentSite" VerticalAlignment="Center" HorizontalAlignment="Center"
+                                                      ContentSource="Header"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter TargetName="ContentSite" Property="TextElement.Foreground" Value="#9C27B0"/>
+                                        <Setter Property="Background" Value="#E3F2FD"/>
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#BBDEFB"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TabControl.Resources>
+            <TabItem Header="Управление клиентами">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Border Grid.Row="0" Margin="0,0,0,20" BorderBrush="#B0BEC5" BorderThickness="2" Padding="15" Background="White">
+                        <Border.Effect>
+                            <DropShadowEffect BlurRadius="5" ShadowDepth="1" Color="#33000000"/>
+                        </Border.Effect>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0">
+                                <TextBlock Text="Добавить клиента" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+                                <TextBox materialDesign:HintAssist.Hint="ФИО" Text="{Binding NewUserFullName}" 
+                                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="250" Margin="0,0,0,10"/>
+                                <TextBox materialDesign:HintAssist.Hint="Email" Text="{Binding NewUserEmail}" 
+                                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="250" Margin="0,0,0,10"/>
+                                <TextBox materialDesign:HintAssist.Hint="Телефон" Text="{Binding NewUserPhone}" 
+                                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="250" Margin="0,0,0,10"/>
+                                <Button Command="{Binding AddUserCommand}" Style="{StaticResource MaterialDesignRaisedButton}" 
+                                        Width="250" Height="40" Background="#9C27B0" Foreground="White">
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <materialDesign:PackIcon Kind="Plus" Width="16" Height="16" Margin="0,0,5,0"/>
+                                        <TextBlock Text="Добавить"/>
+                                    </StackPanel>
+                                </Button>
+                            </StackPanel>
+                            <StackPanel Grid.Column="1" Margin="20,0,0,0">
+                                <TextBlock Text="Редактировать клиента" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+                                <ComboBox ItemsSource="{Binding Users}" DisplayMemberPath="FullName" SelectedItem="{Binding SelectedUser}"
+                                          Style="{StaticResource MaterialDesignComboBox}" Width="250" Height="40"
+                                          IsEditable="False" IsReadOnly="False" SelectedIndex="0"/>
+                                <TextBox materialDesign:HintAssist.Hint="ФИО" Text="{Binding EditUserFullName}" 
+                                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="250" Margin="0,10,0,10"/>
+                                <TextBox materialDesign:HintAssist.Hint="Email" Text="{Binding EditUserEmail}" 
+                                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="250" Margin="0,0,0,10"/>
+                                <TextBox materialDesign:HintAssist.Hint="Телефон" Text="{Binding EditUserPhone}" 
+                                         Style="{StaticResource MaterialDesignFloatingHintTextBox}" Width="250" Margin="0,0,0,10"/>
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                    <Button Command="{Binding EditUserCommand}" Style="{StaticResource MaterialDesignRaisedButton}" 
+                                            Width="150" Height="40" Background="#2196F3" Foreground="White" Margin="0,0,10,0">
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Pencil" Width="16" Height="16" Margin="0,0,5,0"/>
+                                            <TextBlock Text="Редактировать"/>
+                                        </StackPanel>
+                                    </Button>
+                                    <Button Command="{Binding DeleteUserCommand}" Style="{StaticResource MaterialDesignRaisedButton}" 
+                                            Width="150" Height="40" Background="#F44336" Foreground="White">
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                            <materialDesign:PackIcon Kind="Delete" Width="16" Height="16" Margin="0,0,5,0"/>
+                                            <TextBlock Text="Удалить"/>
+                                        </StackPanel>
+                                    </Button>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="1" Padding="15" BorderBrush="#B0BEC5" BorderThickness="2" Background="White" HorizontalAlignment="Center">
+                        <Border.Effect>
+                            <DropShadowEffect BlurRadius="5" ShadowDepth="1" Color="#33000000"/>
+                        </Border.Effect>
+                        <ListView ItemsSource="{Binding Users}" SelectedItem="{Binding SelectedUser}" MaxHeight="400">
+                            <ListView.Triggers>
+                                <EventTrigger RoutedEvent="Loaded">
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Storyboard.TargetProperty="(UIElement.Opacity)" From="0" To="1" Duration="0:0:0.5"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger>
+                            </ListView.Triggers>
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding UserId}" Width="Auto"/>
+                                    <GridViewColumn Header="ФИО" DisplayMemberBinding="{Binding FullName}" Width="Auto"/>
+                                    <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Email}" Width="Auto"/>
+                                    <GridViewColumn Header="Телефон" DisplayMemberBinding="{Binding Phone}" Width="Auto"/>
+                                </GridView>
+                            </ListView.View>
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="ListViewItem">
+                                    <Setter Property="Background" Value="White"/>
+                                    <Setter Property="BorderBrush" Value="#E0E0E0"/>
+                                    <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#E3F2FD"/>
+                                        </Trigger>
+                                        <Trigger Property="IsSelected" Value="True">
+                                            <Setter Property="Background" Value="#BBDEFB"/>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </ListView.ItemContainerStyle>
+                        </ListView>
+                    </Border>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Page>
